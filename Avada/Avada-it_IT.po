@@ -2054,7 +2054,7 @@ msgstr "Precedente"
 #: includes/class-avada-woocommerce.php:369 includes/fusion-functions.php:202
 #: single-wpfc_sermon.php:22 single.php:22
 msgid "Next"
-msgstr "Prossimo"
+msgstr "Successivo"
 
 # @ Avada
 #: includes/class-avada-megamenu-framework.php:119
